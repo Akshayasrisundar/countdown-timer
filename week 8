@@ -59,7 +59,7 @@ var counter = 10;
                                          setTimeout(() => {
                                              count.innerHTML = counter--;
                                              setTimeout(() => {
-                                                 count.innerHTML = "Happy Birthday";
+                                                 count.innerHTML = "Happy Independence Day";
                                              }, 1000);
                                          }, 1000);
                                      }, 1000);
